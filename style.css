@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#header{
+    background-color: rgb(240, 237, 233);
+}
+
+#nav #logo{
+    width: 150px;
+
+}
+
+#h3{
+    font-family:'Times New Roman', Times, serif ;
+}
+#navbar{
+    background-color: rgb(179, 205, 210);
+}
